@@ -1,6 +1,6 @@
-# NBA Home Win Prediction Project
+NBA Home Win Prediction Project
 
-## Project Description
+Project Description:
 
 This project uses Python to build a simple predictive model for NBA games. The goal is to predict whether the listed home team wins a game based on pregame information such as team Elo ratings, opponent Elo ratings, forecasted win probability, and season information.
 
@@ -9,11 +9,10 @@ This is a classification project because the response variable has two possible 
 - `1`: the home team won
 - `0`: the home team lost
 
-## Dataset
+Dataset:
 
 The dataset used in this project is a cleaned NBA game dataset based on FiveThirtyEight's NBA Elo data.
 
 The data file included in this repository is:
 
-```text
 data/nba_home_2000_2015.csv
